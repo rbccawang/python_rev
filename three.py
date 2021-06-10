@@ -3,3 +3,7 @@
 # package: collection of related modules (dateutil, email, json)
 # Python Standard Library
  
+help(print)
+help(1000)
+
+# use python's math library
